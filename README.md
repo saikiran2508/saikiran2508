@@ -21,47 +21,108 @@
 
 ### Programming & Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><sub>Python</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><sub>Java</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br><sub>C++</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/><br><sub>R</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" width="40"/><br><sub>SAS</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40"/><br><sub>Julia</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><sub>MySQL</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br><sub>MongoDB</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br><sub>BigQuery</sub>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/><br>R
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" width="40"/><br>SAS
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40"/><br>Julia
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br>BigQuery
+  </div>
 </p>
+
+---
 
 ### Machine Learning & AI
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br><sub>TensorFlow</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br><sub>PyTorch</sub>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"/><br><sub>Scikit-learn</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><sub>NumPy</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><sub>Pandas</sub>
-  <img src="https://img.shields.io/badge/NLP-FF6F00?logo=tensorflow&logoColor=white" height="25"/><br><sub>NLP</sub>
-  <img src="https://img.shields.io/badge/CNN-FF6F00?logo=tensorflow&logoColor=white" height="25"/><br><sub>CNN</sub>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"/><br>Scikit-learn
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/NLP-FF6F00?logo=tensorflow&logoColor=white" height="25"/><br>NLP
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/CNN-FF6F00?logo=tensorflow&logoColor=white" height="25"/><br>CNN
+  </div>
 </p>
+
+---
 
 ### Tools & Platforms
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br><sub>Flask</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br><sub>Docker</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/><br><sub>Kafka</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br><sub>Airflow</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><sub>Git</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br><sub>AWS</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br><sub>Azure</sub>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br>Flask
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/><br>Kafka
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br>Azure
+  </div>
 </p>
+
+---
 
 ### Visualization & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" height="25"/><br><sub>Tableau</sub>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black" height="25"/><br><sub>Power BI</sub>
-  <img src="https://img.shields.io/badge/matplotlib-11557c?logo=python&logoColor=white" height="25"/><br><sub>Matplotlib</sub>
-  <img src="https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white" height="25"/><br><sub>Seaborn</sub>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" height="25"/><br>Tableau
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black" height="25"/><br>Power BI
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/matplotlib-11557c?logo=python&logoColor=white" height="25"/><br>Matplotlib
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white" height="25"/><br>Seaborn
+  </div>
 </p>
 
+---
 
 ## 📂 Featured Projects
 
