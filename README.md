@@ -64,54 +64,6 @@
 
 ---
 
----
-
-### Tools & Platforms
-<p align="left">
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br>Flask
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/><br>Kafka
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/><br>Airflow
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br>Azure
-  </span>
-</p>
-
----
-
-### Visualization & Analytics
-<p align="left">
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" height="25"/><br>Tableau
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black" height="25"/><br>Power BI
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://img.shields.io/badge/matplotlib-11557c?logo=python&logoColor=white" height="25"/><br>Matplotlib
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white" height="25"/><br>Seaborn
-  </span>
-</p>
-
-
----
-
 ## 📂 Featured Projects
 
 | Project | Summary | Tech Stack |
