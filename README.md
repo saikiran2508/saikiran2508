@@ -20,6 +20,11 @@ PyTorch • TensorFlow • Keras • Scikit-learn • Hugging Face • Flask •
 Tableau • Power BI • matplotlib • seaborn • QGIS • Gephi • R Studio
 
 ---
+## 📜 Certifications  
+- **AWS Certified Cloud Practitioner** — Amazon Web Services *(Jul 2025)*  
+- **Machine Learning Specialization** — DeepLearning.AI, Stanford University  
+
+---
 
 ## 💼 Experience
 
@@ -33,40 +38,39 @@ Tableau • Power BI • matplotlib • seaborn • QGIS • Gephi • R Studio
 
 ## 📌 Featured Projects
 
-### [JOINT INTENT DETECTION SYSTEM](https://github.com/saikiran2508/JOINT-INTENT-DETECTION-SYSTEM)  
-*PyTorch • NLP • Transformers • Hugging Face • API Deployment*  
-- Built a **BERT-based multilingual intent classification** system with 96.5% accuracy.  
-- Added **out-of-scope detection** to improve chatbot reliability.  
-- Deployed as REST API on **Heroku**.
+##  Projects
+
+### **EV Charging Station Analysis**  
+Pipeline for analyzing EV charging station data, including cleaning, spatial database integration, and SQL-based exploration.  
+**Tech stack**: PostgreSQL with PostGIS, Python, SQL, Tableau
+
+### **Chicken Disease Classification Project**  
+End-to-end deep learning solution using CNNs, DVC, and CI/CD pipelines to detect poultry diseases.  
+**Tech stack**: Python, CNN, DVC, Docker, GitHub Actions, Flask, AWS
+
+### **Time Series & Sentiment Analysis (Precious1)**  
+Walmart app review analysis via data scraping and combined time series + sentiment modeling.  
+**Tech stack**: Python (Jupyter), app_store_scraper, TensorFlow, scikit-learn
+
+### **Joint Intent Detection System**  
+BERT-based joint model for intent and slot extraction with high performance on benchmark datasets.  
+**Tech stack**: Python, PyTorch, Hugging Face Transformers, CRF, BERT, seqeval
+
+### **Movie Recommender System**  
+Collaborative filtering movie recommendation with a Flask frontend using TMDB datasets.  
+**Tech stack**: Python (Jupyter, Flask), TMDB dataset, pickle
+
+### **Food Vision 101 — EfficientNetB0 Model**  
+EfficientNetB0-based classifier for 101 food classes, featuring mixed-precision and callbacks.  
+**Tech stack**: TensorFlow, Jupyter, mixed precision, TensorBoard
+
+### **Plant Disease Detection**  
+CNN classifier detecting plant disease types using the PlantVillage dataset and TPU acceleration.  
+**Tech stack**: Python (Jupyter), CNN, PlantVillage dataset, Google Colab TPU
+
 
 ---
 
-### [EV CHARGING STATION DATA ANALYSIS](https://github.com/saikiran2508/EV-Charging-Station-Analysis/tree/master)  
-*Python • SQL • PostgreSQL + PostGIS • Tableau*  
-- Performed **geospatial analysis** of EV charging infrastructure.  
-- Created Tableau dashboards showing **coverage gaps, pricing trends, and operator performance**.
-
----
-
-### [SKIMLIT PROJECT USING NLP](https://github.com/saikiran2508/SkimLit_NLP_Project)  
-*NLP • LSTM • Transfer Learning*  
-- Classified biomedical abstracts into **structured sections** (objectives, methods, results).  
-- Achieved **83% accuracy**, reducing literature review time by **33%**.
-
----
-
-### [END-TO-END CHICKEN DISEASE CLASSIFICATION](https://github.com/saikiran2508/chicken_disease_classification_project)  
-*AWS • CNN • Transfer Learning • CI/CD*  
-- Built a **VGG16-based disease detection** model with 87% accuracy.  
-- Integrated **Flask + Docker + DVC** for deployment and dataset management.
-
----
-
-## 📜 Certifications  
-- **AWS Certified Cloud Practitioner** — Amazon Web Services *(Jul 2025)*  
-- **Machine Learning Specialization** — DeepLearning.AI, Stanford University  
-
----
 
 ## 📚 Research  
 - Co-authored *“A Machine Learning Perspective to Foster Accuracy and Prediction of Urbanization using Automatic Weather Station”* — Published in **Scopus-indexed Journal** [Read Here](https://www.philstat.org/index.php/MSEA/article/view/1451)
